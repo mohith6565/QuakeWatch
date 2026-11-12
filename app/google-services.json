@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "686831383552",
+    "project_id": "quakewatch-a26db",
+    "storage_bucket": "quakewatch-a26db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686831383552:android:89f1cb545e68a3b8c1d4e5",
+        "android_client_info": {
+          "package_name": "com.example.quakewatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686831383552-36fhuh10loj3sq1elrr29hscrlud92kp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quakewatch",
+            "certificate_hash": "5bcd05dce4882583c8002acdc313c8e5a6dea5d0"
+          }
+        },
+        {
+          "client_id": "686831383552-mftuaiceqr0g2h7vg71pan8dkd3phlv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYTMo1iXu8F5DXNFeymBhUjK9CyBDHcec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686831383552-f33tg0i60j3r609igej96ng4dn728b1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
